@@ -1,11 +1,12 @@
 import React from "react"
+import picture from './gem.jpg'
 
 import{FaEnvelope} from "react-icons/fa";
 export default function Header(){
     return(
         <header>
            <div className="imgHeader"> 
-            <img src="gem.jpg" />             
+            <img src={picture} />             
            </div>
            
            <h1 className="header-h1">Binyamin Touthang</h1>
