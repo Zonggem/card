@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{  
+    background-color:gray;
+
+}
+.imgHeader, img{
+    width:300px;
+    height:380px;
+  
+}
+.page{
+    text-align:center;
+    width: 300px;
+    height:auto;
+    margin-left: 500px;
+    background-color: #F5F5F5;
+    border-radius:10px;
+    margin-top: 15px;
+   
+}
+.body-page{
+    padding-left:15px;
+    padding-right:15px;
+}
+button{
+    padding:5px 100px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-top:15px;
+    margin-bottom: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 16px;
+    color: #374151;
+    
+
+}
+.email{
+    transform: translate(0, 1px);
+    padding-right: 5px;
+}
+
+.header-h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #2B283A;
+
+
+margin-top: 15px;
+}
+.header-h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F47D27;
+    margin-bottom: 7px;
+}
+.header-h5{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+color: #4A4E74;
+}
+.about-h3,.interest-h3{
+    color: #2B283A;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 150%;
+    text-align:left;
+    margin-top: 7px;
+
+}
+/* .about-p,.interest-p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+color: #4A4E74;
+margin-top: 4px;
+margin-bottom: 20px;
+text-align:left;
+} */
+.container{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #4A4E74;
+    margin-top: 4px;
+    text-align:left;
+}
+.container .interest-p{
+    margin-bottom: 35px;
+}
+.footer{
+    background: #D5D4D8;
+   border-radius: 0px 0px 10px 10px;
+   padding-top: 15px;
+   padding-bottom: 8px;
+    
+}
+.footer a{
+    padding: 10px 10px;   
+    
+    
+}
+.grey-icon{
+   color:#717892;
+   font-size: 20px;
+}
+.grey-icon:hover{
+    color:#F47D27;
+}
