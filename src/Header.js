@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <header>
            <div className="imgHeader"> 
-            <img src="../gem.jpg" />             
+            <img src="./gem.jpg" />             
            </div>
            
            <h1 className="header-h1">Binyamin Touthang</h1>
